@@ -19,7 +19,7 @@ struct Point {
 		cout <<"["<< xpos <<" ,"<< ypos << "]"<<endl;
 	}
 
-}; //¿©±â´Â ; ´Ş¾ÆÁà
+}; //êµ¬ì¡°ì²´ì—” ; 
 
 int main(void) {
 
